@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-24T21:49:06.023Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="0-MR8li-GglK44QGm6jH" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-24T21:49:28.248Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="XS_wmVs7ItPAM49vx9wA" version="21.5.0" type="github">
   <diagram name="Page-1" id="zBmTkW6W722hAUOu55qT">
     <mxGraphModel dx="989" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -39,7 +39,7 @@
         <mxCell id="9w1iLTEP6peu0ojQrx6c-6" value="Private subnet" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_security_group;grStroke=0;strokeColor=#147EBA;fillColor=#E6F2F8;verticalAlign=top;align=left;spacingLeft=30;fontColor=#147EBA;dashed=0;" vertex="1" parent="9w1iLTEP6peu0ojQrx6c-8">
           <mxGeometry x="530" y="120" width="250" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="9w1iLTEP6peu0ojQrx6c-39" value="Private Host&lt;br&gt;Security Group (PrivateSG)&lt;br&gt;InBound: SSH / 22 &lt;br&gt;(Key Access)&lt;br&gt;OutBound: Any" style="fillColor=none;strokeColor=#DD3522;verticalAlign=top;fontStyle=0;fontColor=#DD3522;whiteSpace=wrap;html=1;" vertex="1" parent="9w1iLTEP6peu0ojQrx6c-6">
+        <mxCell id="9w1iLTEP6peu0ojQrx6c-39" value="Private Host&lt;br&gt;Security Group (PrivateSG)&lt;br&gt;InBound: SSH / 22 &lt;br&gt;(KeyPair Access)&lt;br&gt;OutBound: Any" style="fillColor=none;strokeColor=#DD3522;verticalAlign=top;fontStyle=0;fontColor=#DD3522;whiteSpace=wrap;html=1;" vertex="1" parent="9w1iLTEP6peu0ojQrx6c-6">
           <mxGeometry x="50" y="90" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9w1iLTEP6peu0ojQrx6c-5" value="Public subnet" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_security_group;grStroke=0;strokeColor=#248814;fillColor=#E9F3E6;verticalAlign=top;align=left;spacingLeft=30;fontColor=#248814;dashed=0;" vertex="1" parent="9w1iLTEP6peu0ojQrx6c-8">
