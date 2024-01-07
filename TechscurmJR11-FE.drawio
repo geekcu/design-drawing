@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-07T23:41:16.378Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="3sEEI3oXP0bSQ0DY7K57" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-07T23:42:07.527Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="KdOPwIOzg3adb4TdiHHQ" version="22.1.17" type="github">
   <diagram name="Page-1" id="XVmd0VjjCgByRrAAHHx1">
     <mxGraphModel dx="1424" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -157,9 +157,6 @@
         <mxCell id="Ywgqv69bpyAMkNv6ul1f-4" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#E7157B;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.sns;container=0;" vertex="1" parent="Ywgqv69bpyAMkNv6ul1f-23">
           <mxGeometry x="314.20000000000005" y="120" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ywgqv69bpyAMkNv6ul1f-16" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Ywgqv69bpyAMkNv6ul1f-23">
-          <mxGeometry x="435" y="250" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="Ywgqv69bpyAMkNv6ul1f-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="Ywgqv69bpyAMkNv6ul1f-23" source="Ywgqv69bpyAMkNv6ul1f-17" target="Ywgqv69bpyAMkNv6ul1f-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -168,7 +165,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ywgqv69bpyAMkNv6ul1f-17" value="Domain&lt;br&gt;Health Check" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Ywgqv69bpyAMkNv6ul1f-23">
+        <mxCell id="Ywgqv69bpyAMkNv6ul1f-17" value="Domain(Https)&lt;br&gt;Health Check" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Ywgqv69bpyAMkNv6ul1f-23">
           <mxGeometry x="292" y="288" width="76" height="30" as="geometry" />
         </mxCell>
       </root>
