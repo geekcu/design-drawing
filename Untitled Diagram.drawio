@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-21T12:46:38.970Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="aIKktLfCR2BpbUCdUICx" version="23.0.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-03-21T12:48:23.631Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="VVYiiH__9Q4TytS4p1-e" version="23.0.2" type="github" pages="2">
   <diagram name="Scenario 2 - P1" id="YVxec73zBIYmbvbBt2kR">
     <mxGraphModel dx="1624" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -816,11 +816,11 @@
         <mxCell id="fDMR_SYkY-K0YURg5SCu-32" value="" style="rounded=1;whiteSpace=wrap;html=1;align=left;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="876.5" y="-23.5" width="130" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="fDMR_SYkY-K0YURg5SCu-33" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Intranet&lt;br&gt;(Hosting Zone)&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="743.25" y="-20" width="129.5" height="30" as="geometry" />
+        <mxCell id="fDMR_SYkY-K0YURg5SCu-33" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Intranet&lt;br&gt;(Web Hosting)&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="740.13" y="-23.5" width="129.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fDMR_SYkY-K0YURg5SCu-34" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Restricted&lt;br&gt;(Database)&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="879" y="-20" width="129.5" height="30" as="geometry" />
+          <mxGeometry x="876.5" y="-23.5" width="129.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fDMR_SYkY-K0YURg5SCu-35" value="" style="shape=mxgraph.cisco.servers.directory_server;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="884.75" y="-95" width="60" height="50" as="geometry" />
