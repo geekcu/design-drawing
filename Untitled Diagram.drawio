@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-21T12:51:48.606Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="KtsICHQTBYiTbGxW004l" version="23.0.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-03-21T13:16:11.189Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="k8WoWeEK-Bf_TvADTBKh" version="23.0.2" type="github" pages="2">
   <diagram name="Scenario 2 - P1" id="YVxec73zBIYmbvbBt2kR">
     <mxGraphModel dx="1624" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -443,7 +443,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4gG4YNBlFRW5RbOQM3NU" name="Scenario 2 - P2">
-    <mxGraphModel dx="1299" dy="1451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1559" dy="1571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -775,7 +775,7 @@
           <mxGeometry x="944.75" y="-195.75" width="55.25" height="41.5" as="geometry" />
         </mxCell>
         <mxCell id="fDMR_SYkY-K0YURg5SCu-24" value="" style="shape=mxgraph.cisco.storage.cloud;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="460.5" y="-370" width="186" height="106" as="geometry" />
+          <mxGeometry x="479" y="-370" width="186" height="106" as="geometry" />
         </mxCell>
         <mxCell id="fDMR_SYkY-K0YURg5SCu-26" value="" style="shape=mxgraph.cisco.storage.fibre_channel_disk_subsystem;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="948.5" y="-137" width="43" height="62" as="geometry" />
@@ -887,6 +887,9 @@
         </mxCell>
         <mxCell id="fDMR_SYkY-K0YURg5SCu-61" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;" vertex="1" parent="1">
           <mxGeometry x="400" y="360" width="140" height="13.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vTvQ84Mz04de77NSLP3i-1" value="&lt;h2&gt;&lt;b&gt;Internet &lt;br&gt;Cloud&lt;/b&gt;&lt;/h2&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="516" y="-332" width="125" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
