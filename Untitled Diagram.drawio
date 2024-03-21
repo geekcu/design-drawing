@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-21T11:40:35.955Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Qe7knbf8p2P66eu1fiMr" version="23.0.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-03-21T11:44:44.164Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Eo1ZdmTKEmCrTmuHmQ5x" version="23.0.2" type="github" pages="2">
   <diagram name="Scenario 2 - P1" id="YVxec73zBIYmbvbBt2kR">
     <mxGraphModel dx="1624" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -83,7 +83,7 @@
           <mxGeometry x="603" y="160" width="64" height="64" as="geometry" />
         </mxCell>
         <mxCell id="MGmeo7fdPTb6Nn7WBYol-53" value="&lt;b&gt;Department Server Farm&lt;br&gt;(File Share / Printer Server / AD)&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="88.5" y="674" width="185" height="30" as="geometry" />
+          <mxGeometry x="89" y="685" width="185" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MGmeo7fdPTb6Nn7WBYol-59" value="&lt;br&gt;&lt;b style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 14px;&quot;&gt;Access Layer&lt;br&gt;Layer 2 Switches&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="502" y="510" width="140" height="30" as="geometry" />
@@ -113,13 +113,13 @@
           <mxGeometry x="738.5" y="579" width="43" height="62" as="geometry" />
         </mxCell>
         <mxCell id="MGmeo7fdPTb6Nn7WBYol-74" value="&lt;b&gt;Department Computer Building&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="630" y="685" width="130" height="30" as="geometry" />
+          <mxGeometry x="630" y="690" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MGmeo7fdPTb6Nn7WBYol-75" value="" style="rounded=1;whiteSpace=wrap;html=1;align=left;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="830" y="570" width="230" height="150" as="geometry" />
         </mxCell>
         <mxCell id="MGmeo7fdPTb6Nn7WBYol-76" value="&lt;b&gt;Department Web / App / DB&lt;br&gt;Servers&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="865" y="685" width="176" height="30" as="geometry" />
+          <mxGeometry x="860" y="685" width="176" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MGmeo7fdPTb6Nn7WBYol-85" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
