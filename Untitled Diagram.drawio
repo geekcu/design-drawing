@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-21T12:51:20.860Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="7_eQYGsFYB4ScM1bONdq" version="23.0.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-03-21T12:51:48.606Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="KtsICHQTBYiTbGxW004l" version="23.0.2" type="github" pages="2">
   <diagram name="Scenario 2 - P1" id="YVxec73zBIYmbvbBt2kR">
     <mxGraphModel dx="1624" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -669,7 +669,7 @@
         <mxCell id="-0QiFp0gVZbrzREtMIRp-102" value="" style="rounded=1;whiteSpace=wrap;html=1;align=left;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="735.25" y="-240" width="270" height="205" as="geometry" />
         </mxCell>
-        <mxCell id="-0QiFp0gVZbrzREtMIRp-103" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Data Center&lt;br&gt;(Faculty)&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="-0QiFp0gVZbrzREtMIRp-103" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Data Centre&lt;br&gt;(Faculty)&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="727.88" y="-230" width="129.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PaMl5WoUbehT8DIfQcZb-1" value="" style="shape=mxgraph.cisco.security.firewall;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
