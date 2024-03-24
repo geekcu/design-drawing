@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-24T01:35:19.084Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="pAMBYCSO92WwcuKpcNrM" version="24.0.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-03-24T01:36:59.114Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="DAYncjEuD5ymOc59nbE2" version="24.0.8" type="github" pages="3">
   <diagram id="TZ2Q3rOVI1eo3I_5CD82" name="Scenario 1">
     <mxGraphModel dx="1709" dy="1751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -857,6 +857,9 @@
             <mxPoint x="993.9" y="220" as="sourcePoint" />
             <mxPoint x="993.9" y="143.00000000000006" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="pdvwEInhBPSNHy6qPCSQ-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Scenario 2:Three-Tier Network Architecture &lt;br&gt;(March 25,2024)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="75" y="32" width="900" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
