@@ -82,7 +82,7 @@
           <mxGeometry x="1010" y="370" width="60" height="63" as="geometry" />
         </mxCell>
         <mxCell id="F6hma239Z3UVsW2DJXRU-42" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Unicons_Line_vol_3-2965/docker-1335.svg" vertex="1" parent="1">
-          <mxGeometry x="450" y="700" width="10" height="10" as="geometry" />
+          <mxGeometry x="450" y="670" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
