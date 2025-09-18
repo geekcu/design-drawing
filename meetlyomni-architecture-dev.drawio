@@ -84,10 +84,10 @@
           <mxGeometry x="680" y="150" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="F6hma239Z3UVsW2DJXRU-36" value="IAM" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#DD344C;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.identity_and_access_management;" parent="F6hma239Z3UVsW2DJXRU-28" vertex="1">
-          <mxGeometry x="100" y="370.8" width="40" height="40" as="geometry" />
+          <mxGeometry x="90" y="370.8" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TwTqnpi0IHW01U2Hm2W1-1" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Peremeter Store&lt;/font&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#E7157B;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.parameter_store;" parent="F6hma239Z3UVsW2DJXRU-28" vertex="1">
-          <mxGeometry x="160" y="369.2" width="40" height="41.6" as="geometry" />
+          <mxGeometry x="150" y="370.8" width="40" height="41.6" as="geometry" />
         </mxCell>
         <mxCell id="PYK1HoXps0qIZWL1eZz0-1" value="AWS Managed&lt;br&gt;Prometheus" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#E7157B;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.managed_service_for_prometheus;" vertex="1" parent="F6hma239Z3UVsW2DJXRU-28">
           <mxGeometry x="680" y="220" width="40" height="40" as="geometry" />
