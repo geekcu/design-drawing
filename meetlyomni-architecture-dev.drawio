@@ -198,7 +198,7 @@
         <mxCell id="qeDbLO5Tcm8qtFllbZOF-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="732.5" y="110" width="297.5" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="GgVsPn2afHot_6HWTfwj-7" value="meetlyomni.com&lt;br&gt;Producation Account" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="GgVsPn2afHot_6HWTfwj-7" value="meetlyomni.com&lt;br&gt;Production Account" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="392.5" y="125" width="155" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qeDbLO5Tcm8qtFllbZOF-3" value="uat.meetlyomni.com&lt;br&gt;UAT Account" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
