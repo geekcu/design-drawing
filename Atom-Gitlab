@@ -79,8 +79,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="uISnG1jsFOEJbBo-Qft7-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Project: Host-etc &lt;br&gt;Version Control&lt;/b&gt;&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="120" width="170" height="30" as="geometry" />
+        <mxCell id="uISnG1jsFOEJbBo-Qft7-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Project: Host-etc-cws-d391&amp;nbsp;&lt;br&gt;&lt;/b&gt;&lt;b&gt;Version Control (/etc)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="120" width="290" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uISnG1jsFOEJbBo-Qft7-4" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.web_server;" vertex="1" parent="1">
           <mxGeometry x="175" y="320" width="102" height="120" as="geometry" />
@@ -88,7 +88,7 @@
         <mxCell id="uISnG1jsFOEJbBo-Qft7-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Socialcones-2932/Gitlab-794.svg" vertex="1" parent="1">
           <mxGeometry x="545" y="300" width="140" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="uISnG1jsFOEJbBo-Qft7-6" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Branch&lt;br&gt;&lt;br&gt;DEV&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;QA&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;PROD&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+        <mxCell id="uISnG1jsFOEJbBo-Qft7-6" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;GitLab&lt;br&gt;&lt;br&gt;DEV&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;QA&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;PROD&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="555" y="460" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uISnG1jsFOEJbBo-Qft7-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uISnG1jsFOEJbBo-Qft7-8" target="uISnG1jsFOEJbBo-Qft7-6">
@@ -142,7 +142,7 @@
         <mxCell id="kx9qOVJHI1oG7pcl7Upc-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;System Analyst&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="10" y="560" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EtWgtgHJm8e6OkGgwa3Y-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Branch Name:&lt;br&gt;cws-d391&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;cws-q391&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;cws-p391&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+        <mxCell id="EtWgtgHJm8e6OkGgwa3Y-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Project Name&lt;br&gt;Host-etc-cws-d391&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Host-etc-cws-q391&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Host-etc-cws-p391&lt;/span&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="535" y="185" width="160" height="90" as="geometry" />
         </mxCell>
       </root>
