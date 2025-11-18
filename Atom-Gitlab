@@ -106,8 +106,8 @@
             <mxPoint x="555" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uISnG1jsFOEJbBo-Qft7-14" value="&lt;b&gt;etckeeper &lt;/b&gt;Commit to Gitlab Branch" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="310" y="480" width="208" height="20" as="geometry" />
+        <mxCell id="uISnG1jsFOEJbBo-Qft7-14" value="&lt;b&gt;Tool: etckeeper &lt;/b&gt;Commit to Gitlab Branch" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="277" y="480" width="268" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uISnG1jsFOEJbBo-Qft7-16" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Example:&lt;/b&gt;&lt;br&gt;/etc/nginx/conf.d/*&lt;br&gt;/etc/elasticsearch/jvm.options&lt;br&gt;/etc/php/8.3/fpm/pool.d/atom.conf&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;/etc/ImageMagick-6/policy.xml&lt;/span&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="160" width="320" height="140" as="geometry" />
