@@ -1,9 +1,112 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="28.2.7">
-  <diagram name="Page-1" id="3ZmlnLoTkRLuCYRvjekW">
-    <mxGraphModel dx="1440" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="28.2.7" pages="2">
+  <diagram name="Project: Asnible_Depploy Pipeline" id="3ZmlnLoTkRLuCYRvjekW">
+    <mxGraphModel dx="901" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="LEE-Qchoim_xTaX4QFJO-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="LEE-Qchoim_xTaX4QFJO-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="214.5" as="sourcePoint" />
+            <mxPoint x="210" y="214.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LEE-Qchoim_xTaX4QFJO-1" value="" style="points=[[0.35,0,0],[0.98,0.51,0],[1,0.71,0],[0.67,1,0],[0,0.795,0],[0,0.65,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.user;fillColor=#005073;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="30" y="180" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="LEE-Qchoim_xTaX4QFJO-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="215" as="sourcePoint" />
+            <mxPoint x="600" y="215" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LEE-Qchoim_xTaX4QFJO-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.533;exitY=0.938;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="LEE-Qchoim_xTaX4QFJO-2" target="LEE-Qchoim_xTaX4QFJO-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LEE-Qchoim_xTaX4QFJO-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Develop Branch&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="235" y="200" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LEE-Qchoim_xTaX4QFJO-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="LEE-Qchoim_xTaX4QFJO-3" target="LEE-Qchoim_xTaX4QFJO-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LEE-Qchoim_xTaX4QFJO-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Main Branch&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="615" y="200" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LEE-Qchoim_xTaX4QFJO-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LEE-Qchoim_xTaX4QFJO-5" target="LEE-Qchoim_xTaX4QFJO-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LEE-Qchoim_xTaX4QFJO-5" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Job:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Validate&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;(Automatically)&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Validate_Ansible&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="270" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LEE-Qchoim_xTaX4QFJO-6" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Job: Deploy (Manually Trigger)&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- Deploy_Develop_Server&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- Deploy_QA_Server&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="440" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LEE-Qchoim_xTaX4QFJO-8" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Merge Request&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="190" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LEE-Qchoim_xTaX4QFJO-9" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Approved&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="220" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LEE-Qchoim_xTaX4QFJO-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LEE-Qchoim_xTaX4QFJO-10" target="LEE-Qchoim_xTaX4QFJO-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="675" y="410" />
+              <mxPoint x="675" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LEE-Qchoim_xTaX4QFJO-10" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Job:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Validate&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;(Automatically)&lt;/b&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Validate_Ansible&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="270" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LEE-Qchoim_xTaX4QFJO-11" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Job: Deploy&amp;nbsp;&lt;/b&gt;&lt;b&gt;(Manually Trigger)&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- Deploy_Producation_Server&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="440" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LEE-Qchoim_xTaX4QFJO-19" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;System Analyst&lt;br&gt;Local Git Commit&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="270" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LEE-Qchoim_xTaX4QFJO-25" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Project: Asnible_Depploy Pipeline&lt;/b&gt;&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="130" width="315" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Ri7gFivtQpvonR1VmvI2" name="Project: /etc/ Version Control">
+    <mxGraphModel dx="1306" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="uISnG1jsFOEJbBo-Qft7-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Project: /etc/ Source Version Control&lt;/b&gt;&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="120" width="310" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uISnG1jsFOEJbBo-Qft7-4" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.web_server;" vertex="1" parent="1">
+          <mxGeometry x="175" y="320" width="102" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="uISnG1jsFOEJbBo-Qft7-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Socialcones-2932/Gitlab-794.svg" vertex="1" parent="1">
+          <mxGeometry x="545" y="300" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="uISnG1jsFOEJbBo-Qft7-6" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Branch&lt;br&gt;&lt;br&gt;DEV&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;QA&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;PROD&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="555" y="460" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uISnG1jsFOEJbBo-Qft7-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uISnG1jsFOEJbBo-Qft7-8" target="uISnG1jsFOEJbBo-Qft7-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uISnG1jsFOEJbBo-Qft7-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="uISnG1jsFOEJbBo-Qft7-8" target="uISnG1jsFOEJbBo-Qft7-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uISnG1jsFOEJbBo-Qft7-8" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Server&lt;br&gt;&lt;br&gt;DEV&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;QA&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;PROD&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="166" y="460" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uISnG1jsFOEJbBo-Qft7-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="286" y="540" as="sourcePoint" />
+            <mxPoint x="555" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uISnG1jsFOEJbBo-Qft7-14" value="&lt;b&gt;etckeeper &lt;/b&gt;Commit to Each Server" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="306" y="470" width="208" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uISnG1jsFOEJbBo-Qft7-16" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Example:&lt;/b&gt;&lt;br&gt;/etc/nginx/conf.d/*&lt;br&gt;/etc/elasticsearch/jvm.options&lt;br&gt;/etc/php/8.3/fpm/pool.d/atom.conf&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="140" width="320" height="140" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
