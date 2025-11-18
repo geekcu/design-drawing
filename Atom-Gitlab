@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="28.2.7" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="28.2.7" pages="3">
   <diagram name="Project: Asnible_Depploy Pipeline" id="3ZmlnLoTkRLuCYRvjekW">
     <mxGraphModel dx="901" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -26,7 +26,12 @@
           <mxGeometry x="235" y="200" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LEE-Qchoim_xTaX4QFJO-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="LEE-Qchoim_xTaX4QFJO-3" target="LEE-Qchoim_xTaX4QFJO-10">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="675" y="250" />
+              <mxPoint x="675" y="250" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="LEE-Qchoim_xTaX4QFJO-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Main Branch&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="615" y="200" width="120" height="30" as="geometry" />
@@ -55,7 +60,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LEE-Qchoim_xTaX4QFJO-10" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Job:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Validate&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;(Automatically)&lt;/b&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Validate_Ansible&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="270" width="250" height="80" as="geometry" />
+          <mxGeometry x="550" y="270" width="260" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LEE-Qchoim_xTaX4QFJO-11" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Job: Deploy&amp;nbsp;&lt;/b&gt;&lt;b&gt;(Manually Trigger)&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- Deploy_Producation_Server&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="440" width="260" height="80" as="geometry" />
@@ -107,6 +112,14 @@
         <mxCell id="uISnG1jsFOEJbBo-Qft7-16" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Example:&lt;/b&gt;&lt;br&gt;/etc/nginx/conf.d/*&lt;br&gt;/etc/elasticsearch/jvm.options&lt;br&gt;/etc/php/8.3/fpm/pool.d/atom.conf&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="140" width="320" height="140" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="RtsYywALnFXryqREkutz" name="AtoM Application">
+    <mxGraphModel dx="1306" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
