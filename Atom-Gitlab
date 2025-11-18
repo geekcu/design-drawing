@@ -164,14 +164,11 @@
         </mxCell>
         <mxCell id="F4rLlCooJ_srrGM0EFhV-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="620" y="254.65999999999988" as="targetPoint" />
-            <mxPoint x="490" y="254.65999999999988" as="sourcePoint" />
+            <mxPoint x="630" y="254.65999999999988" as="targetPoint" />
+            <mxPoint x="500" y="254.65999999999988" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aA4YcZ-AEv-G8YzHZwHp-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;Branches&lt;br&gt;&lt;br&gt;Features*&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Bug-Fix*&lt;br&gt;New-Release*&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;etc.&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="330" y="205" width="140" height="135" as="geometry" />
-        </mxCell>
-        <mxCell id="F4rLlCooJ_srrGM0EFhV-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Main Branch&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+        <mxCell id="F4rLlCooJ_srrGM0EFhV-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Main Branch&lt;/b&gt;&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="640" y="240" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F4rLlCooJ_srrGM0EFhV-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.022;entryY=0.349;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
@@ -179,6 +176,15 @@
             <mxPoint x="160" y="254.7255172413793" as="sourcePoint" />
             <mxPoint x="343.0799999999999" y="254.65999999999997" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="iAOkl9TkmwpAF2n3SZd1-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;b&gt;Branches&lt;/b&gt;&lt;br&gt;&lt;br&gt;Features*&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Bug-Fix*&lt;br&gt;New-Release*&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;etc.&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="180" width="140" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="iYnHwNyf4pITPrp_ES4u-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Merge&lt;/b&gt;&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iYnHwNyf4pITPrp_ES4u-2" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Commit&lt;/b&gt;&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="220" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
